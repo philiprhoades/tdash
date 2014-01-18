@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=$("#mainImg").parent().get(0).clientWidth;$("#mainImg").css("max-width",a)});
